@@ -1,0 +1,14 @@
+.button-container {
+  display: flex;
+  gap: 1em;
+  margin-top: 1em;
+}
+
+.button {
+  padding: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: white;
+  border: solid 1px grey;
+  border-radius: 5px;
+  cursor: pointer;
+}
